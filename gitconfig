@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leonardo.asad.89@gmail.com
+	name = Leonardo Asad
